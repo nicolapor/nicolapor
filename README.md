@@ -1,7 +1,7 @@
-<h1 align="center">Hi , I'm Nicolás Olave 👨‍💻 </h1>
+<h1 align="center">Hi , I'm Nicolás Olave Portilla 👨‍💻 </h1>
 
 -------
-![](https://komarev.com/ghpvc/?username=AndresDBA&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=nicolapor&color=0e75b6)
 
 ### Software Developer {👨🏽‍💻}
 I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm a Fullstack Dev student (Henry).
@@ -23,7 +23,7 @@ Within the IT world I don't have work experience, but I consider myself a respon
     <a href="#"><img src="https://img.icons8.com/color/50/python--v1.png" alt="Python" title="Python"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="JAVA" title="JAVA"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/c-sharp-logo.png" alt="" title=""></a>
-    <a href="#"><img src="" alt="C#" title="C#"></a>
+    <a href="#"><img src="" alt="" title=""></a>
     
    
 
