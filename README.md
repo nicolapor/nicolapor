@@ -4,14 +4,14 @@
 ![](https://komarev.com/ghpvc/?username=nicolapor&color=0e75b6)
 
 ### Software Developer {👨🏽‍💻}
-I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm a Fullstack Dev student (Henry).
+
 
 
 
 -------
 
 
-Within the IT world I don't have work experience, but I consider myself a responsible, proactive person. I have the ability to work in a team, I'm organized and highly self-motivated, I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
+
 
 
 
