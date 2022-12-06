@@ -19,10 +19,8 @@
 
 #### Skills:
 <p> 
-    <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/python--v1.png" alt="Python" title="Python"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="JAVA" title="JAVA"></a>
-    <a href="#"><img src="https://img.icons8.com/color/50/c-sharp-logo.png" alt="" title=""></a>
     <a href="#"><img src="" alt="" title=""></a>
     
    
