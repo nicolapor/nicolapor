@@ -3,9 +3,11 @@
 -------
 ![](https://komarev.com/ghpvc/?username=nicolapor&color=0e75b6)
 
-### Software Developer {👨🏽‍💻}
+### Software Engineer JR {👨🏽‍💻}
 
+I  am  an  industrial  engineer  and  a  systems  engineering  student.  I  am currently looking for a job where I can perform my skills and knowledge acquired towards an organization in programming languages such as Python and Java. 
 
+I always seek to work as a team, cooperating with my colleagues supporting us in the best way possible, with great satisfaction in teach and learn.
 
 
 -------
