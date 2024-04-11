@@ -3,11 +3,9 @@
 -------
 ![](https://komarev.com/ghpvc/?username=nicolapor&color=0e75b6)
 
-### Software Engineer JR {👨🏽‍💻}
+### Industrial Engineer - Data Analyst {👨🏽‍💻}
 
-I  am  an  industrial  engineer  and  a  systems  engineering  student.  I  am currently looking for a job where I can perform my skills and knowledge acquired towards an organization in programming languages such as Python and Java. 
-
-I always seek to work as a team, cooperating with my colleagues supporting us in the best way possible, with great satisfaction in teach and learn.
+Data analyst, graduated in Industrial Engineering with complementary studies in Systems Engineering. Passionate about the world of data, I have trained as a Data Analyst at the prestigious Le Wagon Bootcamp and I am currently expanding my knowledge in Data Science at Digital House. I have specialized in the use of technological tools for effective data manipulation. I possess strong skills in Python, Pandas, SQL, Excel, and Power BI, focused on data cleaning, analysis, and visualization.
 
 
 -------
