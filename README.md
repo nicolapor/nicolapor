@@ -3,9 +3,11 @@
 -------
 ![](https://komarev.com/ghpvc/?username=nicolapor&color=0e75b6)
 
-### Industrial Engineer - Data Analyst {👨🏽‍💻}
+### Planner | Industrial Engineer | Data Analyst | Systems Engineering Student {👨🏽‍💻}
 
-Data analyst, graduated in Industrial Engineering with complementary studies in Systems Engineering. Passionate about the world of data, I have trained as a Data Analyst at the prestigious Le Wagon Bootcamp and I am currently expanding my knowledge in Data Science at Digital House. I have specialized in the use of technological tools for effective data manipulation. I possess strong skills in Python, Pandas, SQL, Excel, and Power BI, focused on data cleaning, analysis, and visualization.
+Data Scientist, with a background in Industrial Engineering and advanced studies in Systems Engineering. I am currently working as Manufacturing and Assembly Planning Coordinator at Novatec Fluid System SAS, with experience in project management, resource planning, and process control. I am passionate about data analysis and data science applied to decision-making. I have strong knowledge of Python, Pandas, SQL, Machine Learning, Excel, and Power BI, focused on data cleaning, analysis, prediction, and visualization.
+
+My goal is to apply my skills in diverse professional contexts, working collaboratively with teams and supporting my colleagues in the best way possible.
 
 
 -------
